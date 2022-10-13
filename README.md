@@ -16,6 +16,8 @@ Create a table of test cases BEFORE you write and run your project to calculate 
 
 NOTE: Remember the requirements for a header and a pause at the end of the program, discussed in the reading "Console Applications". These are required in every console application project.
 
+![1](https://github.com/bell-kevin/ch7studentScores/blob/main/Screenshot%20from%202022-10-13%2013-46-40.png)
+
 Submission: Submit a single zipped folder containing all of the specified screenshots, the table of test cases, AND the root folder for the project.
 
 == We're Using GitHub Under Protest ==
