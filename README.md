@@ -4,7 +4,7 @@ Create a project that uses a structure for information about a student and test 
 
  Here is an image showing what the results might look like:
 
-Ch 7 Student Scores
+![Ch 7 Student Scores](https://github.com/bell-kevin/ch7studentScores/blob/main/ch7studentScores.PNG)
 
 Create a function to store data for a single student -- pass the student structure by reference. In the main function, call this function 3 times, once for each of 3 different students.
 
