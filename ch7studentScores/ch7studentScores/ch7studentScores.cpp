@@ -2,7 +2,6 @@
 //
 
 #include <iostream>
-#include "ch7studentScores.h"
 using namespace std;
 struct Student
 {
